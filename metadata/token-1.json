@@ -1,8 +1,8 @@
 {
   "name": "WeatherArt #1",
   "description": "An AI-powered dynamic NFT that changes its animated GIF based on real-time weather in your location.",
-  "image": "https://gateway.pinata.cloud/ipfs/bafybeihn7deit3gz5zxpkige6a5p26rtvvbuov5lxvnhxs5u55arjbneza/sunny/sun.gif",
-  "animation_url": "https://gateway.pinata.cloud/ipfs/bafybeihn7deit3gz5zxpkige6a5p26rtvvbuov5lxvnhxs5u55arjbneza/sunny/sun.gif",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeihn7deit3gz5zxpkige6a5p26rtvvbuov5lxvnhxs5u55arjbneza/sun.gif",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/bafybeihn7deit3gz5zxpkige6a5p26rtvvbuov5lxvnhxs5u55arjbneza/sun.gif",
   "attributes": [
     {
       "trait_type": "Weather",
